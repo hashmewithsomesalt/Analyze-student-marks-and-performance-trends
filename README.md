@@ -1,4 +1,5 @@
 📊 Student Performance Analysis Using Python
+
 📌 Project Overview
 
 This project analyzes student academic performance using Python by converting grades into numerical values, calculating SGPA, and identifying pass or re-appear cases. The analysis focuses on core subjects and uses data visualization to highlight performance trends and insights.
